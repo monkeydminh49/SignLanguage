@@ -58,8 +58,8 @@ function Point() {
 
             <div className='point-contain'>
                 <div className='point-item'>
-                    <a href=''>
-                        <img className='point-img' src={pic6}>
+                    <a href='./'>
+                        <img className='point-img' src={pic6} alt="">
                         </img>
                         <div className='point-text'>
                             apple
@@ -71,8 +71,8 @@ function Point() {
                 </div>
 
                 <div className='point-item'>
-                    <a href=''>
-                        <img className='point-img' src={pic6}>
+                    <a href='./'>
+                        <img className='point-img' src={pic6} alt="">
                         </img>
                         <div className='point-text'>
                             apple
@@ -84,8 +84,8 @@ function Point() {
                 </div>
 
                 <div className='point-item'>
-                    <a href=''>
-                        <img className='point-img' src={pic6}>
+                    <a href='./'>
+                        <img className='point-img' src={pic6} alt="">
                         </img>
                         <div className='point-text'>
                             apple
@@ -97,8 +97,8 @@ function Point() {
                 </div>
 
                 <div className='point-item'>
-                    <a href=''>
-                        <img className='point-img' src={pic6}>
+                    <a href='./'>
+                        <img className='point-img' src={pic6} alt=''>
                         </img>
                         <div className='point-text'>
                             apple
@@ -110,8 +110,8 @@ function Point() {
                 </div>
 
                 <div className='point-item'>
-                    <a href=''>
-                        <img className='point-img' src={pic6}>
+                    <a href='./'>
+                        <img className='point-img' src={pic6} alt=''>
                         </img>
                         <div className='point-text'>
                             apple
@@ -123,8 +123,8 @@ function Point() {
                 </div>
 
                 <div className='point-item'>
-                    <a href=''>
-                        <img className='point-img' src={pic6}>
+                    <a href='./'>
+                        <img className='point-img' src={pic6} alt=''>
                         </img>
                         <div className='point-text'>
                             apple

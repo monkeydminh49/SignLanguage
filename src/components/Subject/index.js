@@ -27,7 +27,7 @@ function Subject() {
             </div>
             {/* 1 */}
             <div className='content-box'>
-                <img src={pic6} className='box-image'>
+                <img src={pic6} className='box-image' alt=''>
 
                 </img>
                 <div className='box-title'>
@@ -41,7 +41,7 @@ function Subject() {
             </div>
             {/* 2 */}
             <div className='content-box'>
-                <img src={pic6} className='box-image'>
+                <img src={pic6} className='box-image' alt=''>
 
                 </img>
                 <div className='box-title'>
@@ -56,7 +56,7 @@ function Subject() {
 
             {/* 3 */}
             <div className='content-box'>
-                <img src={pic6} className='box-image'>
+                <img src={pic6} className='box-image' alt=''>
 
                 </img>
                 <div className='box-title'>
@@ -71,7 +71,7 @@ function Subject() {
 
             {/* 4 */}
             <div className='content-box'>
-                <img src={pic6} className='box-image'>
+                <img src={pic6} className='box-image' alt=''>
 
                 </img>
                 <div className='box-title'>
